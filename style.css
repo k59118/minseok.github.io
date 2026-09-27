@@ -206,6 +206,10 @@ body {
   margin-bottom: 18px;
 }
 
+.pub-under-review {
+  color: var(--text);
+}
+
 .pub-subhead {
   font-size: 1.02rem;
   font-weight: 600;
