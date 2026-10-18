@@ -147,7 +147,7 @@ body {
 
 .news-list .date {
   flex-shrink: 0;
-  width: 70px;
+  width: 78px;
   color: var(--muted);
   font-variant-numeric: tabular-nums;
   font-weight: 500;
@@ -158,6 +158,11 @@ body {
 .news-list em {
   color: var(--text);
   font-style: italic;
+}
+
+.news-list strong {
+  color: var(--text);
+  font-weight: 700;
 }
 
 /* Education */
